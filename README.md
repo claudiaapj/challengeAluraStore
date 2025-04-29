@@ -10,8 +10,7 @@
 </p>
 <h2>Objetivo</h1>
 <p>O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.</p>
-<h2><Conhecimentos adquiridos/h2>
-
+<h2>Conhecimentos Adquiridos</h2>
 <li>Carregamento e manipulação de dados CSV com a biblioteca Pandas</li>
 <li>Criação de visualizações de dados com biblioteca Matplotlib.</li>
 <li>Análise métricas como faturamento, avaliações e desempenho de vendas</li>
