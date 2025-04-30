@@ -22,4 +22,5 @@
 <h3>:calling: Média das Avaliações da loja</h3>
 <img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Media%20avaliacao%20loja.png?raw=true" alt="Média Avaliaçẽos">
 <h3>:articulated_lorry: Frete Médio por Loja</h3>
-<img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Frete%20medio.png" alt="Frete médio por loja">
+
+
