@@ -20,7 +20,7 @@
 <h3>:paperclip: Vendas por categoria</h3>
 <img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Vendas%20por%20Categoria.png?raw=true" alt="Vendas por categorias">
 <h3>:calling: Média das Avaliações da loja</h3>
-<img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Media%20avaliacao%20loja.png?raw=true" alt="Média Avaliaçẽos">
+<img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Media%20avaliacao%20loja.png?raw=true alt="Media Avaliação das Lojas">
 <h3>:articulated_lorry: Frete Médio por Loja</h3>
 <img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/frete_medio.png?raw=true" alt="Frete Médio por Loja">
 
