@@ -1,4 +1,4 @@
-<h1 align="center"> Relatório Final</h1>
+<h1> Relatório Final</h1>
 <h2>A proposta</h2>
 <p>A proposta é gerar relatório baseado na análise e nos gráficos gerados para cada tópicos. Neste relatório vamos mencionar e analisar:
 
