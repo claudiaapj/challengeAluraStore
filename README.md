@@ -18,7 +18,7 @@
 <h3>💰 Faturamento Por Loja</h3>
 <img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Faturamento%20por%20loja.png?raw=true" alt="Texto Alternativo">
 <h3>:paperclip: Vendas por categoria</h3>
-<img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Vendas%20por%20Categoria.png?raw=true" alt="Vendas por categorias">
+<img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/vendas_categoria.png?raw=true" alt="Vendas por Categoria">
 <h3>:calling: Média das Avaliações da loja</h3>
 <img src="https://github.com/claudiaapj/challengeAluraStore/blob/main/imagens/Media%20avaliacao%20loja.png?raw=true alt="Media Avaliação das Lojas">
 <h3>:articulated_lorry: Frete Médio por Loja</h3>
