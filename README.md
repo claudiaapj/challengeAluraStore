@@ -28,6 +28,7 @@
 <li>De todas as quatro lojas, a que teve menor faturamento representando  23,6% do faturamento total foi a loja 4, seguida da loja 3 com 24,9%.</li>
 <li>Analisando pelo frete médio, a loja que teve menor gastos com frete foi a loja 4 que teve uma média de R$31,28 de custo médio, mas se juntarmos com o faturamento também foi a loja que menos faturou. </li>
 <li>Se observarmos sob o aspecto da média de avaliação de  cada loja, apontamos a loja 1 com o pior desempenho, com uma nota de 3,98 e logo atrás a loja 4 com uma nota de 4,00. Não tivemos uma variação muito grande ou uma nota muito abaixo das outras.</li>
-
-
+<h2>:bust_in_silhouette: Autora</h2>
+<h4>Cláudia Aguilar</h4>
+<a href="https://www.linkedin.com/in/claudiaguilarp/">https://www.linkedin.com/in/claudiaguilarp/</a>
 
